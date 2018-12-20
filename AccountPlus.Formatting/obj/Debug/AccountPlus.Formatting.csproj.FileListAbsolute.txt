@@ -1,0 +1,6 @@
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Formatting\bin\Debug\AccountPlus.Formatting.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Formatting\bin\Debug\AccountPlus.Formatting.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Formatting\obj\Debug\AccountPlus.Formatting.csprojAssemblyReference.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Formatting\obj\Debug\AccountPlus.Formatting.csproj.CoreCompileInputs.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Formatting\obj\Debug\AccountPlus.Formatting.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Formatting\obj\Debug\AccountPlus.Formatting.pdb

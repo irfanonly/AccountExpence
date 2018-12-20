@@ -1,0 +1,12 @@
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\obj\Debug\AccountPlus.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.BusinessLogic.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.BusinessLogic.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.Configurations.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.DataAccess.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.Formatting.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\MySql.Data.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.Configurations.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.DataAccess.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\bin\Debug\AccountPlus.Formatting.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\obj\Debug\AccountPlus.BusinessLogic.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\obj\Debug\AccountPlus.BusinessLogic.pdb

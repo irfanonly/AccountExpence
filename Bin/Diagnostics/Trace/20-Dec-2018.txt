@@ -1,0 +1,67 @@
+2018-12-20 15:38:39,527 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 20/12/2018 3:38:39 PM
+Username : 
+
+2018-12-20 15:57:45,880 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 20/12/2018 3:57:45 PM
+Username : 
+
+2018-12-20 16:04:46,291 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 20/12/2018 4:04:46 PM
+Username : 
+
+2018-12-20 16:07:15,631 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 20/12/2018 4:07:15 PM
+Username : 
+
+2018-12-20 16:11:06,553 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 20/12/2018 4:11:06 PM
+Username : 
+
+2018-12-20 16:12:11,639 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 20/12/2018 4:12:11 PM
+Username : 
+
+2018-12-20 16:12:23,649 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : irfan
+Success : True
+Start Time : 20/12/2018 4:12:23 PM
+Username : admin
+
+2018-12-20 16:12:31,235 
+Screen/Form Name : Home [Add new Expense]
+Method/ Action/ Routine Invoked : User : irfan
+Item Id : 1
+Description : Please edit this item details. Its simply added for test purpose.
+Price : 100
+Start Time : 20/12/2018 4:12:31 PM
+Username : irfan
+
+2018-12-20 16:12:53,231 
+Screen/Form Name : Home [Add new Expense]
+Method/ Action/ Routine Invoked : User : irfan
+Item Id : 2
+Description : Please edit this item details. Its simply added for test purpose.
+Price : 200
+Start Time : 20/12/2018 4:12:53 PM
+Username : irfan
+

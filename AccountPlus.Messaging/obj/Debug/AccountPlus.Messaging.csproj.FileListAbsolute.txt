@@ -1,0 +1,13 @@
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\bin\Debug\AccountPlus.Messaging.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\bin\Debug\AccountPlus.Messaging.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\bin\Debug\AccountPlus.Configurations.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\bin\Debug\AccountPlus.Formatting.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\bin\Debug\AccountPlus.Configurations.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\bin\Debug\AccountPlus.Formatting.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\obj\Debug\AccountPlus.Messaging.csprojAssemblyReference.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\obj\Debug\AccountPlus.Messaging.MessageResource.resources
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\obj\Debug\AccountPlus.Messaging.csproj.GenerateResource.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\obj\Debug\AccountPlus.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\obj\Debug\AccountPlus.Messaging.csproj.CopyComplete
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\obj\Debug\AccountPlus.Messaging.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Messaging\obj\Debug\AccountPlus.Messaging.pdb

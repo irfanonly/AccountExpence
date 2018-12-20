@@ -1,0 +1,7 @@
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Setup\AccountPlus.Setup.CustomActions\bin\Debug\AccountPlus.Setup.CustomActions.exe
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Setup\AccountPlus.Setup.CustomActions\bin\Debug\AccountPlus.Setup.CustomActions.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Debug\AccountPlus.Setup.CustomActions.csprojResolveAssemblyReference.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Debug\AccountPlus.Setup.CustomActions.Properties.Resources.resources
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Debug\AccountPlus.Setup.CustomActions.csproj.GenerateResource.Cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Debug\AccountPlus.Setup.CustomActions.exe
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Setup\AccountPlus.Setup.CustomActions\obj\Debug\AccountPlus.Setup.CustomActions.pdb

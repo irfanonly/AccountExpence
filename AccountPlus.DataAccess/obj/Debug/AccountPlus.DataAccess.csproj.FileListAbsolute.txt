@@ -1,0 +1,7 @@
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\obj\Debug\AccountPlus.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\bin\Debug\AccountPlus.DataAccess.dll.config
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\bin\Debug\AccountPlus.DataAccess.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\bin\Debug\AccountPlus.DataAccess.pdb
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\bin\Debug\MySql.Data.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\obj\Debug\AccountPlus.DataAccess.dll
+C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\obj\Debug\AccountPlus.DataAccess.pdb

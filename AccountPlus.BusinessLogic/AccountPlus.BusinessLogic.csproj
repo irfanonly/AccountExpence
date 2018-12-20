@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F04F47A-0984-4C0F-9653-C09AA45A0EE9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccountPlus.BusinessLogic</RootNamespace>
+    <AssemblyName>AccountPlus.BusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.0.30714, Culture=neutral, PublicKeyToken=b32731d11ce58905">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analytics.cs" />
+    <Compile Include="Arch.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="CommonArch.cs" />
+    <Compile Include="DataSecurity.cs" />
+    <Compile Include="Expense.cs" />
+    <Compile Include="ExpenseReport.cs" />
+    <Compile Include="FinalizeReport.cs" />
+    <Compile Include="HomePageReport.cs" />
+    <Compile Include="ItemAnalyticArch.cs" />
+    <Compile Include="Items.cs" />
+    <Compile Include="ItemWiseAnalytics.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="MonthlyReport.cs" />
+    <Compile Include="Preferences.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportArchitecture.cs" />
+    <Compile Include="SessionParameters.cs" />
+    <Compile Include="UserAuthentication.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Users.cs" />
+    <Compile Include="XmlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccountPlus.Configurations\AccountPlus.Configurations.csproj">
+      <Project>{8219A041-ABF4-4278-8EF9-93C5BF992381}</Project>
+      <Name>AccountPlus.Configurations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountPlus.DataAccess\AccountPlus.DataAccess.csproj">
+      <Project>{AF9E7495-E441-4258-9B5D-28099523AF2B}</Project>
+      <Name>AccountPlus.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AccountPlus.Formatting\AccountPlus.Formatting.csproj">
+      <Project>{10E357DF-2926-4EC3-87CD-36694F9C4D86}</Project>
+      <Name>AccountPlus.Formatting</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,219 @@
+2018-12-20 15:14:16,046 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:14:16 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.PerformClick()
+   at System.Windows.Forms.Form.ProcessDialogKey(Keys keyData)
+   at System.Windows.Forms.Control.PreProcessMessage(Message& msg)
+   at System.Windows.Forms.Control.PreProcessControlMessageInternal(Control target, Message& msg)
+   at System.Windows.Forms.Application.ThreadContext.PreTranslateMessage(MSG& msg)
+2018-12-20 15:15:23,854 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:15:23 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 15:15:42,875 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:15:42 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 15:19:11,100 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:19:11 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 15:20:12,195 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:20:12 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.PerformClick()
+   at System.Windows.Forms.Form.ProcessDialogKey(Keys keyData)
+   at System.Windows.Forms.Control.PreProcessMessage(Message& msg)
+   at System.Windows.Forms.Control.PreProcessControlMessageInternal(Control target, Message& msg)
+   at System.Windows.Forms.Application.ThreadContext.PreTranslateMessage(MSG& msg)
+2018-12-20 15:21:52,479 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:21:52 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 15:30:07,812 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:30:07 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.PerformClick()
+   at System.Windows.Forms.Form.ProcessDialogKey(Keys keyData)
+   at System.Windows.Forms.Control.PreProcessMessage(Message& msg)
+   at System.Windows.Forms.Control.PreProcessControlMessageInternal(Control target, Message& msg)
+   at System.Windows.Forms.Application.ThreadContext.PreTranslateMessage(MSG& msg)
+2018-12-20 15:32:17,366 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:32:17 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.PerformClick()
+   at System.Windows.Forms.Form.ProcessDialogKey(Keys keyData)
+   at System.Windows.Forms.Control.PreProcessMessage(Message& msg)
+   at System.Windows.Forms.Control.PreProcessControlMessageInternal(Control target, Message& msg)
+   at System.Windows.Forms.Application.ThreadContext.PreTranslateMessage(MSG& msg)
+2018-12-20 15:33:30,042 
+************************************************************
+Username : 
+Date & Time : 20/12/2018 3:33:30 PM
+************************************************************
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AccountPlus.UI.Login.btnLogin_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\Login.cs:line 84
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 15:53:44,704 
+************************************************************
+Username : admin
+Date & Time : 20/12/2018 3:53:44 PM
+************************************************************
+
+System.Data.SqlClient.SqlException: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection, CommandType commandType) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 269
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 300
+   at AccountPlus.BusinessLogic.Users.CreateNewUser(Int32 roleId, String userName, String password, String firstName, String lastName, String email, String mobile, Boolean isActive) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\Users.cs:line 48
+   at AccountPlus.UI.NewUser.AddUpdateUser() in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 127
+   at AccountPlus.UI.NewUser.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 30
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 15:54:15,858 
+************************************************************
+Username : admin
+Date & Time : 20/12/2018 3:54:15 PM
+************************************************************
+
+System.Data.SqlClient.SqlException: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection, CommandType commandType) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 269
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 300
+   at AccountPlus.BusinessLogic.Users.CreateNewUser(Int32 roleId, String userName, String password, String firstName, String lastName, String email, String mobile, Boolean isActive) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\Users.cs:line 48
+   at AccountPlus.UI.NewUser.AddUpdateUser() in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 127
+   at AccountPlus.UI.NewUser.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 30
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 15:54:48,759 
+************************************************************
+Username : admin
+Date & Time : 20/12/2018 3:54:48 PM
+************************************************************
+
+System.Data.SqlClient.SqlException: The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+The statement has been terminated.
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection, CommandType commandType) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 269
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 300
+   at AccountPlus.BusinessLogic.Users.CreateNewUser(Int32 roleId, String userName, String password, String firstName, String lastName, String email, String mobile, Boolean isActive) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\Users.cs:line 48
+   at AccountPlus.UI.NewUser.AddUpdateUser() in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 127
+   at AccountPlus.UI.NewUser.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 30
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-12-20 16:05:22,726 
+************************************************************
+Username : admin
+Date & Time : 20/12/2018 4:05:22 PM
+************************************************************
+
+System.Data.SqlClient.SqlException: Incorrect syntax near ''.
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection, CommandType commandType) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 269
+   at AccountPlus.DataAccess.DBHelper.ExecuteNonQuery(String commandText, DBParameterCollection paramCollection) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.DataAccess\DBHelper.cs:line 300
+   at AccountPlus.BusinessLogic.Users.CreateNewUser(Int32 roleId, String userName, String password, String firstName, String lastName, String email, String mobile, Boolean isActive) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.BusinessLogic\Users.cs:line 50
+   at AccountPlus.UI.NewUser.AddUpdateUser() in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 127
+   at AccountPlus.UI.NewUser.btnSubmit_Click(Object sender, EventArgs e) in c:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.UserInterface\NewUser.cs:line 30
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
