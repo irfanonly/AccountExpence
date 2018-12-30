@@ -7,3 +7,10 @@ C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Configu
 C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Configurations\obj\Debug\AccountPlus.Configurations.csproj.CopyComplete
 C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Configurations\obj\Debug\AccountPlus.Configurations.dll
 C:\Users\Irfan\Documents\AccountPlusSource\AccountPlusSource\AccountPlus.Configurations\obj\Debug\AccountPlus.Configurations.pdb
+C:\Users\Irfan\Documents\GitHub\AccountExpence\AccountPlus.Configurations\bin\Debug\AccountPlus.Configurations.dll
+C:\Users\Irfan\Documents\GitHub\AccountExpence\AccountPlus.Configurations\bin\Debug\AccountPlus.Configurations.pdb
+C:\Users\Irfan\Documents\GitHub\AccountExpence\AccountPlus.Configurations\bin\Debug\AccountPlus.Formatting.dll
+C:\Users\Irfan\Documents\GitHub\AccountExpence\AccountPlus.Configurations\bin\Debug\AccountPlus.Formatting.pdb
+C:\Users\Irfan\Documents\GitHub\AccountExpence\AccountPlus.Configurations\obj\Debug\AccountPlus.Configurations.csproj.CoreCompileInputs.cache
+C:\Users\Irfan\Documents\GitHub\AccountExpence\AccountPlus.Configurations\obj\Debug\AccountPlus.Configurations.dll
+C:\Users\Irfan\Documents\GitHub\AccountExpence\AccountPlus.Configurations\obj\Debug\AccountPlus.Configurations.pdb

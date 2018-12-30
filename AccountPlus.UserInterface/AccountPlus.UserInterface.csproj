@@ -232,6 +232,7 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="App.config" />
+    <None Include="Database\SQL Server\Backup\AccountPlus.bak" />
     <None Include="Help\AccountPlus.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -269,6 +270,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Database\MS Access\AccountPlus.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database\MySQL\AccountPlusDB.sql" />
+    <Content Include="Database\SQL Server\Script\DBScript.sql" />
+    <Content Include="ReadMe.txt" />
     <EmbeddedResource Include="Preferences.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>

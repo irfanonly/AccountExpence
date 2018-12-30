@@ -1,0 +1,7 @@
+2018-12-30 15:28:19,025 
+Screen/Form Name : Login
+Method/ Action/ Routine Invoked : Username : admin
+Success : True
+Start Time : 12/30/2018 3:28:19 PM
+Username : 
+
